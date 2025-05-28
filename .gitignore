@@ -5,6 +5,13 @@
 *.log
 *.tmp
 
+target/
+*.log
+*.class
+*.jar
+*.war
+
+
 # Maven
 target/
 .settings/

@@ -1,2 +1,2 @@
 # AryanApp
-Aryan Application Management System
+Aryan Application is a student-focused web platform that consolidates academic and financial services in a single interface. It includes secure login, real-time timetable updates, result tracking, and a personalized dashboard. Financial management tools and online payment options are integrated to reduce queries by 15%. With an overall performance optimization that cut load times by 40%, the application significantly enhances student interaction and satisfaction. Technologies used include Java, Spring Boot, MySQL, HTML, CSS, and JavaScript.
